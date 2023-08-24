@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="button_start">Старт</string>
+    <string name="button_stop">Стоп</string>
+    <string name="button_reset">Сброс</string>
+    <string name="init_time">00:00:00</string>
+</resources>
