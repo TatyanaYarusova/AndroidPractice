@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppForCafe</string>
+    <string name="image_name">Логотип кафе</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="hint_name">Введите имя</string>
+    <string name="hint_password">Введите пароль</string>
+    <string name="button">СДЕЛАТЬ ЗАКАЗ</string>
+    <string name="help_text">Все поля должны быть заполнены!</string>
+
+    <string-array name="options_for_coffee">
+        <item>Американо</item>
+        <item>Латте</item>
+        <item>Капучино</item>
+        <item>Эспрессо</item>
+        <item>Фраппе</item>
+        <item>Мокко</item>
+    </string-array>
+
+    <string-array name="options_for_tea">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Красный</item>
+    </string-array>
+</resources>
